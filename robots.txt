@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ciedohngoh.lyonsinbeta.com/sitemap.xml
